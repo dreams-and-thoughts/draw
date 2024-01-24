@@ -1,6 +1,6 @@
 # draw
 drawings
 
-![draw003](draw003.png)
-![draw002](draw002.png)
-![draw001](draw001.png)
+![draw003](img/draw003.png)
+![draw002](img/draw002.png)
+![draw001](img/draw001.png)
